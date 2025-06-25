@@ -1,0 +1,22 @@
+[{
+  "itemId": "12345",
+  "manufacturerName": "Acme Corporation",
+  "productName": "Product Name",
+  "manufacturerItemCode": "ACME-123",
+  "itemDescription": "This is a product description.",
+  "pkg": "ea",
+  "unitPrice": 19.99,
+  "msrp": 24.99,
+  "availability": "14-21 Days",
+  "supplierName": "Acme Supplier",
+  "itemImageUrl": "https://example.com/product.jpg",
+  "weight": 1.5,
+  "height": 10.0,
+  "width": 8.0,
+  "depth": 5.0,
+  "gtin": "0123456789012",
+  "dateLastModified": "2023-11-06T11:00:13",
+  "currentInventoryLevel": 100,
+  "sku": "1000203745",
+  "ndcItemCode": "NDC-12345"
+}]
