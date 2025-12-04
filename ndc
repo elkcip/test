@@ -20,3 +20,25 @@
   "sku": "1000203745",
   "ndcItemCode": "GCA-442505"
 }]
+[{
+  "itemId": "12345678",
+  "manufacturerName": "GACK America",
+  "productName": "GACKC America Varnish",
+  "manufacturerItemCode": "442505",
+  "itemDescription": "Higher fluoride, calcium and phosphate ions released due to the RECALDENT",
+  "pkg": "ea",
+  "unitPrice": 1.26,
+  "msrp": 13.19,
+  "availability": "14-21 Days",
+  "supplierName": "GC America",
+  "itemImageUrl": "https://example.com/product.jpg",
+  "weight": .6,
+  "height": 2.3,
+  "width": 4.9,
+  "depth": 6.4,
+  "gtin": "0000000000000",
+  "dateLastModified": "2023-11-06T11:00:13",
+  "currentInventoryLevel": 100,
+  "sku": "1000203745",
+  "ndcItemCode": "GACK-442505"
+}]
