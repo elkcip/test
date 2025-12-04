@@ -19,8 +19,8 @@
   "currentInventoryLevel": 100,
   "sku": "1000203745",
   "ndcItemCode": "GCA-442505"
-}]
-[{
+},
+{
   "itemId": "12345678",
   "manufacturerName": "GACK America",
   "productName": "GACKC America Varnish",
