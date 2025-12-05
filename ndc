@@ -1,6 +1,6 @@
 [
     {
-        "ItemID": 10114425,
+        "ItemID": "10114425",
         "ManufacturerName": "Ethicon",
         "ProductName": "ETHICON BLAKE SILICONE DRAINS",
         "ManufacturerItemCode": 2228,
@@ -39,7 +39,7 @@
         "Bulletin_Date": "11/11/2025"
     },
     {
-        "ItemID": 10152437,
+        "ItemID": "10152437",
         "ManufacturerName": "Molnlycke Health Care US, LLC",
         "ProductName": "MOLNLYCKE WOUND MANAGEMENT - MEPORE FILM®",
         "ManufacturerItemCode": 272500,
@@ -78,7 +78,7 @@
         "Bulletin_Date": "11/11/2025"
     },
     {
-        "ItemID": 10194503,
+        "ItemID": "10194503",
         "ManufacturerName": "Medicom, Inc.",
         "ProductName": "MEDICOM SAFEMASK PREMIER L1",
         "ManufacturerItemCode": 2016,
