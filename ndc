@@ -1,21 +1,22 @@
-    {
-        "ItemID": 10114425,
+[
+{
+        "ItemID":10114425,
         "ManufacturerName": "Ethicon",
         "ProductName": "ETHICON BLAKE SILICONE DRAINS",
-        "ManufacturerItemCode": 2228,
+        "ManufacturerItemCode":2228,
         "ItemDescription": "Silicone Drain, 15FR Round, Hubless, 10/cs (Continental US Only)",
         "Pkg": "ea",
-        "UnitPrice": 835.48,
-        "Base Price": 1285.35,
-        "Online Discounted Price": 1156.82,
+        "UnitPrice":835.48,
+        "Base Price":1285.35,
+        "Online Discounted Price":1156.82,
         "MRSP Pricing": null,
         "Availability": "14-21 Days",
         "SupplierName": "National Distribution & Contracting, Inc.",
         "ItemImageURL": null,
-        "WGT1": 1.4,
-        "hgt1": 5.3,
-        "wid1": 8.3,
-        "dpth1": 9.5,
+        "WGT1":1.4,
+        "hgt1":5.3,
+        "wid1":8.3,
+        "dpth1":9.5,
         "gtin1": null,
         "LastModified": "31:01.1",
         "Current Inventory Levels": 0,
@@ -38,7 +39,7 @@
         "Bulletin_Date": "11/11/2025"
     },
     {
-        "ItemID": 10152437,
+        "ItemID":10152437,
         "ManufacturerName": "Molnlycke Health Care US, LLC",
         "ProductName": "MOLNLYCKE WOUND MANAGEMENT - MEPORE FILM®",
         "ManufacturerItemCode": 272500,
@@ -115,4 +116,4 @@
         "Bulletin_No": 2773,
         "Bulletin_Date": "11/11/2025"
     }
-
+]
